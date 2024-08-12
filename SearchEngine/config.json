@@ -1,0 +1,14 @@
+{
+  "config": {
+    "name": "SkillboxSearchEngine",
+    "version": "0.1",
+    "max_responses": 5
+  },
+  "files": [
+    "..\\SearchEngine\\resources\\Green oak near Lukomorye.txt",
+    "..\\SearchEngine\\resources\\Tatiana's letter to Onegin.txt",
+    "..\\SearchEngine\\resources\\To Chaadaev.txt",
+    "..\\SearchEngine\\resources\\Winter morning.txt",
+    "..\\SearchEngine\\resources\\Some file.txt"
+  ]
+}
