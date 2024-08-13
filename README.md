@@ -6,11 +6,13 @@ The program is written in the Visual Studio development environment using tools 
 
 PROJECT ASSEMBLY
 
-1) Clone the repository
+1) Clone the repository.
    Commands: git clone https://github.com/Vladimir-Mari-afk/Search_engine
-             cd Search_engine
-2) Create a directory for the build and build via CMake
+             cd Search_engine\SearchEngine
+2) Create a directory for the build and build via CMake.
    Commands: mkdir <name directory>
              cd <name directory>
              cmake ..
              cmake --build .
+3) Drag the files from the newly created Debug folder to the SearchEngine folder.
+4) Run the .exe program.
